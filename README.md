@@ -1,4 +1,4 @@
-## JM preproject. Practical task 1.1.3 (JDBC)
+## Spring + JDBC
 
 В этом задании мы познакомимся с такими технологиями, как:
 
